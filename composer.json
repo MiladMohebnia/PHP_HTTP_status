@@ -1,0 +1,12 @@
+{
+    "name": "MiladM/PHP_HTTP_status",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MiladM",
+            "email": "miladmohebnia@gmail.com"
+        }
+    ],
+    "require": {}
+}
