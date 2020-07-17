@@ -1,12 +1,17 @@
 {
-    "name": "miladm/php_http_status",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "MiladM",
-            "email": "miladmohebnia@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "miladm/php_http_status",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MiladM",
+      "email": "miladmohebnia@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "http/Status.php"
+    ]
+  }
 }
